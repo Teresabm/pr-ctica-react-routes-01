@@ -16,7 +16,9 @@
 **Visualización en tamaño Movil:** 
 
 **Página Home:**
+
 ![Movil-size-home](./src/assets/page-home-movil.jpeg "Movil-size-home")
 
 **Página services:**
+
 ![Movil-size-services](./src/assets/page-services-movil.jpeg "Movil-size-services")
